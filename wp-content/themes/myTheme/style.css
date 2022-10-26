@@ -1,0 +1,30 @@
+/*
+Theme Name:Custom Theme
+Theme URI: https://mkenyadaima.com/themes/jobsTheme/
+Author: Nicholas Waruingi
+Author URI: https://mkenyadaima.com/
+Description: Learning how to create theme
+Requires PHP: 7.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jobsTheme
+Tags: 
+
+mkenyadaima WordPress Theme, (C) 2021 WordPress.org
+mkenyadaima is distributed under the terms of the GNU GPL.
+*/
+
+.jumbotron {
+  padding: 5rem 0;
+}
+
+.my_gradient {
+  background: rgb(88, 227, 235);
+  background: linear-gradient(
+    90deg,
+    rgba(88, 227, 235, 1) 0%,
+    rgba(18, 194, 147, 0.9699230033810399) 41%,
+    rgba(8, 156, 59, 1) 100%
+  );
+}
